@@ -21,6 +21,6 @@ Covid19 X-ray Images Classification, Imbalanced Data using Transfer Learning, Fo
 ![precision_recall](https://user-images.githubusercontent.com/80930272/161564751-b7f3f1b1-72b4-4c8e-9d29-43795d6d1a33.jpg)
 
 # Reference
-## https://www.sciencedirect.com/science/article/pii/S1959031820300993
-## https://www.nature.com/articles/s41598-021-99015-3
-## https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-focal-loss-in-object-detection/
+- https://www.sciencedirect.com/science/article/pii/S1959031820300993
+- https://www.nature.com/articles/s41598-021-99015-3
+- https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-focal-loss-in-object-detection/
